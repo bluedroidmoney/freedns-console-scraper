@@ -8,7 +8,7 @@ A powerful, browser-based JavaScript scraper to extract, sort, and export all do
 - **Export Ready**: Generates a clean `.txt` file of the entire list of domains available to use.
 
 ## 🛠 How to Use
-1. Go to the FreeDNS [Shared Domain Registry](https://freedns.afraid.org/domain/registry).
+1. Go to the FreeDNS [Shared Domain Registry](https://freedns.afraid.org/domain/registry/).
 2. Open your browser console (`F12` or `CTRL + Shift + I`/`Cmd + Option + I`).
 3. Copy the code from `scraper.js` and paste it into the console.
 4. Wait for the process to complete; your file will download automatically!
