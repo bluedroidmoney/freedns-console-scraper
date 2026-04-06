@@ -9,7 +9,7 @@ A powerful, browser-based JavaScript scraper to extract, sort, and export all do
 
 ## 🛠 How to Use
 1. Go to the FreeDNS [Shared Domain Registry](https://freedns.afraid.org/domain/registry/).
-2. Open your browser console (`F12` or `CTRL + Shift + I`/`Cmd + Option + I`).
+2. Open the Developer Console by pressing `F12` (or `Cmd + Opt + J` on macOS / `Ctrl + Shift + J` on Windows/Linux).
 3. Copy the code from `scraper.js` and paste it into the console.
 4. Wait for the process to complete; your file will download automatically!
 
